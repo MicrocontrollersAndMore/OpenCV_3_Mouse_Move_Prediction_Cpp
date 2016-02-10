@@ -1,1 +1,0 @@
-# OpenCV_3_Mouse_Move_Prediction_Cpp
